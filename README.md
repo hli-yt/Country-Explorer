@@ -22,4 +22,7 @@ I used the RestCountries API to get all the data. The app handles loading states
 # Limitations
   - Flag images may load slowly on slow internet connections
   -  App requires internet connection for initial data load
-  -  The RestCountries API requires exact or near-exact name matches for search  
+  -  The RestCountries API requires exact or near-exact name matches for search
+
+# Video demo
+https://drive.google.com/file/d/1n2I11m2w46Rl1VMwZaaMLRFKVxlnmVzM/view?usp=sharing
